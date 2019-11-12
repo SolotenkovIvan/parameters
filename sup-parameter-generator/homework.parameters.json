@@ -1,0 +1,23 @@
+{
+  "version" : "v.1.1",
+  "parameters" : [ {
+    "name" : "Parameters №1",
+    "description" : "description",
+    "isList" : true,
+    "roles" : [ "Admin", "User", "Guest" ],
+    "type" : "type",
+    "bundle" : [ {
+      "path" : [ {
+        "code" : "0x08EF",
+        "value" : "2287"
+      }, {
+        "code" : "0x0425",
+        "value" : "2345"
+      }, {
+        "code" : "0x3412",
+        "value" : "2412"
+      } ],
+      "values" : [ "String1", "String2", "String2" ]
+    } ]
+  } ]
+}
